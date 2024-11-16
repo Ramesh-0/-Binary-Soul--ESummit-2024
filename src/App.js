@@ -1,6 +1,5 @@
-// src/App.js
 import React, { useState } from 'react';
-import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Header from './components/Header';
 import Banner from './components/Banner';
 import Footer from './components/Footer';
@@ -13,6 +12,10 @@ import WorldChat from './pages/WorldChat';
 import CreateWebinar from './pages/CreateWebinar';
 import ScrollToTop from './components/ScrollToTop';
 import GamePage from './pages/GamePage'; // Import GamePage
+import ConstitutionSchool from './pages/ConstitutionSchool'; // Import ConstitutionSchool
+import SupremeCourtGame from './pages/SupremeCourtGame'; // Import SupremeCourtGame
+import DailyQuest from './pages/DailyQuest'; // Import DailyQuest
+import HighCourtGame from './pages/HighCourtGame'; // Import HighCourtGame
 
 function App() {
   const [webinars, setWebinars] = useState([]); // State to store webinars
@@ -25,9 +28,12 @@ function App() {
     <Router>
       <ScrollToTop />
       <div className="min-h-screen flex flex-col relative">
+        {/* Header component displayed on all pages */}
         <Header />
+        
         <main className="flex-grow relative">
           <Routes>
+            {/* General Pages */}
             <Route path="/home" element={<><Banner /><HeroSection /></>} />
             <Route path="/explore" element={<ExplorePage />} />
             <Route path="/community" element={<CommunityPage />} />
@@ -35,12 +41,20 @@ function App() {
             <Route path="/webinar" element={<WebinarPage webinars={webinars} />} />
             <Route path="/create-webinar" element={<CreateWebinar onCreate={handleCreateWebinar} />} />
             <Route path="/educational-videos" element={<EducationalVideosPage />} />
-            <Route path="/games" element={<GamePage />} /> {/* Updated with GamePage */}
-            <Route path="/contact" element={<div>Contact Page</div>} />
-            <Route path="/ai" element={<div>AI Page</div>} />
+            
+            {/* Games */}
+            <Route path="/games" element={<GamePage />} />
+            <Route path="/games/constitution-school" element={<ConstitutionSchool />} />
+            <Route path="/games/supreme-court-game" element={<SupremeCourtGame />} />
+            <Route path="/games/daily-quest" element={<DailyQuest />} />
+            <Route path="/games/high-court-game" element={<HighCourtGame />} />
+            
+            {/* Default Route: Redirect to /home */}
             <Route path="/" element={<Navigate to="/home" />} />
           </Routes>
         </main>
+
+        {/* Footer component displayed on all pages */}
         <Footer />
       </div>
     </Router>
