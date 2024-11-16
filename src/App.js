@@ -11,11 +11,12 @@ import EducationalVideosPage from './pages/EducationalVideosPage';
 import WorldChat from './pages/WorldChat';
 import CreateWebinar from './pages/CreateWebinar';
 import ScrollToTop from './components/ScrollToTop';
-import GamePage from './pages/GamePage'; // Import GamePage
-import ConstitutionSchool from './pages/ConstitutionSchool'; // Import ConstitutionSchool
-import SupremeCourtGame from './pages/SupremeCourtGame'; // Import SupremeCourtGame
-import DailyQuest from './pages/DailyQuest'; // Import DailyQuest
-import HighCourtGame from './pages/HighCourtGame'; // Import HighCourtGame
+import GamePage from './pages/GamePage';
+import ConstitutionSchool from './pages/ConstitutionSchool';
+import SupremeCourtGame from './pages/SupremeCourtGame';
+import DailyQuest from './pages/DailyQuest';
+import HighCourtGame from './pages/HighCourtGame';
+import AIPage from './pages/AIPage'; // Import AIPage
 
 function App() {
   const [webinars, setWebinars] = useState([]); // State to store webinars
@@ -41,7 +42,8 @@ function App() {
             <Route path="/webinar" element={<WebinarPage webinars={webinars} />} />
             <Route path="/create-webinar" element={<CreateWebinar onCreate={handleCreateWebinar} />} />
             <Route path="/educational-videos" element={<EducationalVideosPage />} />
-            
+            <Route path="/ai" element={<AIPage />} /> {/* AI Page */}
+
             {/* Games */}
             <Route path="/games" element={<GamePage />} />
             <Route path="/games/constitution-school" element={<ConstitutionSchool />} />

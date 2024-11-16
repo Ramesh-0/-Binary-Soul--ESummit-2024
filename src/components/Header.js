@@ -19,7 +19,6 @@ function Header() {
             }
           >
             Home
-            {({ isActive }) => isActive && <span className="absolute inset-0 border-2 border-red-300 rounded-lg pointer-events-none" />}
           </NavLink>
           <NavLink 
             to="/games" 
@@ -28,7 +27,6 @@ function Header() {
             }
           >
             Games
-            {({ isActive }) => isActive && <span className="absolute inset-0 border-2 border-red-300 rounded-lg pointer-events-none" />}
           </NavLink>
           <NavLink 
             to="/contact" 
@@ -37,7 +35,6 @@ function Header() {
             }
           >
             Contact
-            {({ isActive }) => isActive && <span className="absolute inset-0 border-2 border-red-300 rounded-lg pointer-events-none" />}
           </NavLink>
           <NavLink 
             to="/ai" 
@@ -46,7 +43,6 @@ function Header() {
             }
           >
             AI
-            {({ isActive }) => isActive && <span className="absolute inset-0 border-2 border-red-300 rounded-lg pointer-events-none" />}
           </NavLink>
           <NavLink 
             to="/community" 
@@ -55,7 +51,6 @@ function Header() {
             }
           >
             Community
-            {({ isActive }) => isActive && <span className="absolute inset-0 border-2 border-red-300 rounded-lg pointer-events-none" />}
           </NavLink>
         </nav>
 
