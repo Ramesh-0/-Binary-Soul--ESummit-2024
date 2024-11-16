@@ -10,6 +10,7 @@
     "axios": "^1.7.7",
     "framer-motion": "^11.5.4",
     "react": "^18.3.1",
+    "react-crossword": "^0.2.0",
     "react-dom": "^18.3.1",
     "react-icons": "^5.3.0",
     "react-router-dom": "^6.26.2",
@@ -45,6 +46,6 @@
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.11"
+    "tailwindcss": "^3.4.15"
   }
 }
