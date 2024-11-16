@@ -44,14 +44,14 @@ function Banner() {
         <h1 className="text-4xl md:text-5xl font-bold text-red-900 mt-6">Constitution Made Easy</h1>
         <h2 className="text-2xl md:text-3xl font-semibold text-gray-800 mt-4">India’s Legal Legacy</h2>
         <p className="text-lg text-gray-700 mt-4">
-          The Indian Constitution is the supreme law of India, adopted on January 26, 1950. It establishes the framework for the government, defining its structure, powers, and functions...
+          The Indian Constitution is the supreme law of India. It establishes the framework for the government, defining its structure, powers, and functions.It is one of the longest and most detailed written constitutions in the world.
         </p>
         {/* Conditionally rendered additional content */}
         <div className={`transition-all duration-700 ease-in-out ${isExpanded ? 'opacity-100 max-h-screen py-6 px-4' : 'opacity-0 max-h-0 overflow-hidden'}`}>
           <div className={`mt-8 transition-all duration-700 ${isExpanded ? 'opacity-100' : 'opacity-0'}`}>
             <h3 className="text-2xl font-semibold mb-4">Additional Information</h3>
             <p className="text-lg text-gray-700">
-              Here you can include additional information about the Indian Constitution. This section can be expanded or collapsed by clicking the "Show More" button.
+            Indian constitution was adopted by the Constituent Assembly of India on 26 November 1949 and became effective on 26 January 1950.[7] The constitution replaced the Government of India Act 1935 as the country's fundamental governing document, and the Dominion of India became the Republic of India.
             </p>
           </div>
         </div>
