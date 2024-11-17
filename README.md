@@ -58,13 +58,13 @@ Javascript, HTML, CSS, C++, Python, Java, React.js
 
 
 ## Screenshots
-![image alt] (https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS1.png)
+![image alt](https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS1.png)
 
-![image alt] (https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS2.png)
+![image alt](https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS2.png)
 
-![image alt] (https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS3.png)
+![image alt](https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS3.png)
 
-![image alt] (https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS4.png)
+![image alt](https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS4.png)
 
 
 
