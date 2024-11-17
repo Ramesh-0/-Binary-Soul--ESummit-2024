@@ -4,6 +4,13 @@
 Develop a gamified platform to make the Indian Constitution more accessible and engaging for citizens with animations and AI features.
 
 
+## Deployed Link
+
+You can view the deployed app here: [![Live Demo](https://img.shields.io/badge/Live%20Demo-React%20App-blue)](https://Ramesh-0.github.io/-Binary-Soul--ESummit-2024)
+
+
+
+
 
 ## Acknowledgements
 
