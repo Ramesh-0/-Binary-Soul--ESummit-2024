@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/-Binary-Soul--ESummit-2024/static/css/main.53954abd.css",
+    "main.js": "/-Binary-Soul--ESummit-2024/static/js/main.db1573cf.js",
+    "static/media/image1.jpg": "/-Binary-Soul--ESummit-2024/static/media/image1.9a1a1c1500c09c26fc9f.jpg",
+    "static/media/quiz.jpg": "/-Binary-Soul--ESummit-2024/static/media/quiz.189374259bdcee21034e.jpg",
+    "static/media/fa-solid-900.ttf": "/-Binary-Soul--ESummit-2024/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/-Binary-Soul--ESummit-2024/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/-Binary-Soul--ESummit-2024/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/court.jpg": "/-Binary-Soul--ESummit-2024/static/media/court.01c0fff62915b1cfddb1.jpg",
+    "static/media/fa-brands-400.woff2": "/-Binary-Soul--ESummit-2024/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/image3.jpg": "/-Binary-Soul--ESummit-2024/static/media/image3.c3b1ace840a461277515.jpg",
+    "static/media/image2.jpg": "/-Binary-Soul--ESummit-2024/static/media/image2.effc3679ad977a61d724.jpg",
+    "static/media/fa-regular-400.ttf": "/-Binary-Soul--ESummit-2024/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/-Binary-Soul--ESummit-2024/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/highCourt.jpeg": "/-Binary-Soul--ESummit-2024/static/media/highCourt.43e7ef141df9289bf3b9.jpeg",
+    "static/media/school.png": "/-Binary-Soul--ESummit-2024/static/media/school.07642ce6393cc3b2d3f4.png",
+    "static/media/fa-v4compatibility.ttf": "/-Binary-Soul--ESummit-2024/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/-Binary-Soul--ESummit-2024/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/slick.svg": "/-Binary-Soul--ESummit-2024/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/-Binary-Soul--ESummit-2024/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/-Binary-Soul--ESummit-2024/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/-Binary-Soul--ESummit-2024/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/-Binary-Soul--ESummit-2024/index.html",
+    "main.53954abd.css.map": "/-Binary-Soul--ESummit-2024/static/css/main.53954abd.css.map",
+    "main.db1573cf.js.map": "/-Binary-Soul--ESummit-2024/static/js/main.db1573cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53954abd.css",
+    "static/js/main.db1573cf.js"
+  ]
+}
