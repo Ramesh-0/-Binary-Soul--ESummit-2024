@@ -58,6 +58,14 @@ Javascript, HTML, CSS, C++, Python, Java, React.js
 
 
 ## Screenshots
+https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS1.png
+
+https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS2.png
+
+https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS3.png
+
+https://github.com/Ramesh-0/-Binary-Soul--ESummit-2024/blob/8217030f12a60a45bc4a3e3afdf1af0b08704089/src/assets/SS4.png
+
 
 
 
